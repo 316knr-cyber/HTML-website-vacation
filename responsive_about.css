@@ -1,0 +1,9 @@
+@media all and (min-width:766px) and (max-width:1080px){
+    
+    body{padding:12px 30px 80px;}
+}
+    .Cuisine{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
